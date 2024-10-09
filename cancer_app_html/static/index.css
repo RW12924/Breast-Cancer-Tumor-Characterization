@@ -1,0 +1,18 @@
+:root {
+    background-color: #242424;
+    font-family: Inter;
+    color: #FF00BF;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.form-element{
+    display:flex;
+    flex-direction:column;
+}
+.form-element input {
+    width: 50px; /* Adjust the width value as needed */
+}
